@@ -5,7 +5,9 @@ import { Server } from "socket.io";
 import dotenv from "dotenv";
 dotenv.config();
 
+// routes
 import authRoutes from './routes/auth'
+import contactRoutes from './routes/contacts'
 
 const app = express();
 const port = process.env.PORT || "5000";
@@ -14,7 +16,7 @@ const server = http.createServer(app);
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-app.use("/api", [authRoutes]);
+app.use("/api", [authRoutes, contactRoutes]);
 
 const io = new Server(server, {
   cors: {

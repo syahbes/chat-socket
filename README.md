@@ -1,6 +1,6 @@
 # Chat App / WhatsApp Clone
 
-This project is a WhatsApp clone developed by following a tutorial. You can find the tutorial [here](https://youtu.be/xhrfzbM14Gg?si=boCdQ6pisMX4vAQo&t=4496).
+This project is a WhatsApp clone developed by following a tutorial. You can find the tutorial [here](https://youtu.be/xhrfzbM14Gg).
 
 ## Stack
 
@@ -33,6 +33,10 @@ This project is a WhatsApp clone developed by following a tutorial. You can find
 2. Navigate to the client and backend directories and install dependencies using `npm install`.
 3. Run the client and backend using `npm run dev` or the appropriate command from your setup.
 
-Feel free to explore and enhance the features of this chat application! If you have any questions or issues, refer to the tutorial linked above or reach out for assistance.
+notes:
 
-Happy coding! 👨‍💻✨
+`npx prisma studio`
+server dir
+
+now at : 2:34
+https://youtu.be/xhrfzbM14Gg?si=S83jz9LHtRKXxRU6&t=9237
