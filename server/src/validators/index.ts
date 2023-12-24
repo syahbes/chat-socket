@@ -12,3 +12,8 @@ export const authRequest = yup.object({
     .max(15, 'Password is too long')
     .required()
 })
+
+export const createMessageRequest = yup.object({
+    conversationId: yup.number().required(),
+    text: yup.string().required(),
+})
