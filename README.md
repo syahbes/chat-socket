@@ -38,5 +38,5 @@ notes:
 `npx prisma studio`
 server dir
 
-now at : 2:34
-https://youtu.be/xhrfzbM14Gg?si=S83jz9LHtRKXxRU6&t=9237
+now at : 3:15
+https://youtu.be/xhrfzbM14Gg?si=TQMcRJKbd7gax8x2&t=11723
