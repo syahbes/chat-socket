@@ -34,9 +34,12 @@ This project is a WhatsApp clone developed by following a tutorial. You can find
 3. Run the client and backend using `npm run dev` or the appropriate command from your setup.
 
 notes:
+username test
+pass 12345
+
 
 `npx prisma studio`
 server dir
 
-now at : 3:15
-https://youtu.be/xhrfzbM14Gg?si=TQMcRJKbd7gax8x2&t=11723
+now at 4:56
+https://youtu.be/xhrfzbM14Gg?si=lJpKOMWv0NEFbkfc&t=17865
